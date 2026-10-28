@@ -1,0 +1,13 @@
+Bibliotecas carregadas do kit: /tmp/dlps-offline-vendor-wbxo_htv/requests/__init__.py /tmp/dlps-offline-vendor-wbxo_htv/bs4/__init__.py
+test_manifest_versions_and_portability (test_resolver.ResolverTests.test_manifest_versions_and_portability) ... ok
+test_no_hosting_request_or_conditional_js_guess (test_resolver.ResolverTests.test_no_hosting_request_or_conditional_js_guess) ... ok
+test_parts_are_explicit_not_guessed (test_resolver.ResolverTests.test_parts_are_explicit_not_guessed) ... ok
+test_ragnarok_real_editions (test_resolver.ResolverTests.test_ragnarok_real_editions) ... ok
+test_redirects_and_captcha (test_resolver.ResolverTests.test_redirects_and_captcha) ... ok
+test_spider_real_editions (test_resolver.ResolverTests.test_spider_real_editions) ... ok
+test_wrapper_and_invalid_payload (test_resolver.ResolverTests.test_wrapper_and_invalid_payload) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.171s
+
+OK

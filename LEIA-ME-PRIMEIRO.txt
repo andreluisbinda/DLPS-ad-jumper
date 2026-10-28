@@ -1,0 +1,25 @@
+DLPS LINKS - WINDOWS 10 X64
+
+1. Extraia esta pasta para um local permanente, por exemplo:
+   C:\Ferramentas\dlps-links-windows
+
+2. PARA USAR SO A EXTENSAO (nao precisa de Python):
+   Abra chrome://extensions no Chrome, ative Modo do desenvolvedor,
+   clique Carregar sem compactacao e escolha a subpasta extension.
+   Na pagina do jogo, abra o painel DLPS - Links diretos.
+
+3. PARA USAR O SCRIPT:
+   Abra PREPARAR.cmd. Depois abra RESOLVER.cmd e cole a URL do jogo.
+   O Python portatil e as bibliotecas ja estao no ZIP completo.
+   Os resultados JSON ficam em resultados.
+
+4. Se faltarem Chrome ou Git, os instaladores oficiais opcionais
+   estao em installers. VERIFICAR_INSTALADORES.cmd confere hashes
+   e assinaturas no Windows, sem executar nenhum instalador.
+
+5. Depois do futuro git clone, PREPARAR.cmd baixa os componentes
+   obrigatorios e confere os hashes. O repositorio ainda nao foi
+   publicado. Os instaladores pesados nao entrarao no Git.
+
+Leia README.md para detalhes. Nao ha jogos neste pacote.
+Cloudflare/CAPTCHA no destino ainda podem aparecer.

@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "DLPS — Links diretos",
+  "version": "0.1.0",
+  "description": "Recupera os destinos publicados no DLPSGAME e remove wrappers públicos conhecidos de anúncios.",
+  "content_scripts": [{
+    "matches": ["https://dlpsgame.com/*", "https://www.dlpsgame.com/*", "https://downloadgameps3.net/*", "https://www.downloadgameps3.net/*", "https://clk.sh/full*", "https://www.clk.sh/full*"],
+    "js": ["content.js"],
+    "run_at": "document_start"
+  }]
+}

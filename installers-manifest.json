@@ -1,0 +1,20 @@
+{
+  "files": [
+    {
+      "filename": "Git-2.56.0.4-64-bit.exe",
+      "url": "https://github.com/git-for-windows/git/releases/download/v2.56.0.windows.4/Git-2.56.0.4-64-bit.exe",
+      "size": 66850032,
+      "sha256": "4961a4a8cc778d8b6e00a5819e5fe4d078b754555aff7aedc2d77a5d74c2de80",
+      "provenance": "https://git-scm.com/install/windows",
+      "verification": "GitHub release digest"
+    },
+    {
+      "filename": "googlechromestandaloneenterprise64.msi",
+      "url": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi",
+      "size": 170467328,
+      "sha256": "cf1757b01c3af403de494a1b702e2a96701fd10026f5b89be53741689ed25895",
+      "provenance": "https://chromeenterprise.google/download/",
+      "verification": "Hash local de arquivo obtido do Google via HTTPS; assinatura Authenticode a verificar no Windows"
+    }
+  ]
+}

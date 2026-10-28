@@ -1,0 +1,13 @@
+.runtime/
+.runtime-build-*/
+.venv/
+__pycache__/
+*.pyc
+cache/
+resultados/
+downloads/*.zip
+downloads/*.whl
+downloads/*.part
+installers/*.exe
+installers/*.msi
+*.log

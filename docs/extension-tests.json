@@ -1,0 +1,13 @@
+{
+  "passed": 7,
+  "tests": [
+    "Spider-Man: extensão carregada pelo manifesto; painel com 7 opções reais.",
+    "Link Viki original restaurado após execução do script real de clk.sh.",
+    "Clique no painel abriu /archives/19078 diretamente, sem requisitar clk.sh/full.",
+    "Payload não inserido no DOM ativo; URL javascript: recusada.",
+    "Ragnarok: painel com 6 opções a partir do HTML real salvo.",
+    "Wrapper clk.sh/full servido como HTML redirecionado ao destino codificado.",
+    "Base64 inválido não gera destino inventado."
+  ],
+  "network": "Somente fixtures locais interceptadas no navegador; sem consultas externas."
+}

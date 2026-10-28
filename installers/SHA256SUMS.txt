@@ -1,0 +1,2 @@
+4961a4a8cc778d8b6e00a5819e5fe4d078b754555aff7aedc2d77a5d74c2de80  Git-2.56.0.4-64-bit.exe
+cf1757b01c3af403de494a1b702e2a96701fd10026f5b89be53741689ed25895  googlechromestandaloneenterprise64.msi
